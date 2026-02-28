@@ -1,3 +1,4 @@
+![Pakistan Inflation Chart](Capture.png)
 Pakistan Inflation Rate Analysis (2000–2024)
 📌 Project Overview
 This project analyzes Pakistan’s annual inflation trends using data from the World Bank.
